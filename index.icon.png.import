@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c60w6at5kav3c"
-path="res://.godot/imported/index.icon.png-3eeef387b443df6b93eb4d6331e90d6c.ctex"
+uid="uid://dferntiowkv77"
+path="res://.godot/imported/index.icon.png-3292089805970aba11cd7c4f909cc323.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://bubbabday/updates/index.icon.png"
-dest_files=["res://.godot/imported/index.icon.png-3eeef387b443df6b93eb4d6331e90d6c.ctex"]
+source_file="res://bubbabday/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-3292089805970aba11cd7c4f909cc323.ctex"]
 
 [params]
 
