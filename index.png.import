@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://r2um1t5h4axq"
-path="res://.godot/imported/index.png-1eeb54204181ae9073a47b04fb44f06d.ctex"
+uid="uid://eoikoyryoe5m"
+path="res://.godot/imported/index.png-dfd9eb4c31277aefa04386f838a0d939.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://bubbabday/the game/index.png"
-dest_files=["res://.godot/imported/index.png-1eeb54204181ae9073a47b04fb44f06d.ctex"]
+source_file="res://bubbabday/updates/index.png"
+dest_files=["res://.godot/imported/index.png-dfd9eb4c31277aefa04386f838a0d939.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ctk4dk44emnr7"
-path="res://.godot/imported/index.apple-touch-icon.png-edc7c151c1288e08ff457cc0ef68220c.ctex"
+uid="uid://b8grmnhtx37x6"
+path="res://.godot/imported/index.apple-touch-icon.png-5137fdc5f03c27f18a466fd424d9bb2e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://bubbabday/the game/index.apple-touch-icon.png"
-dest_files=["res://.godot/imported/index.apple-touch-icon.png-edc7c151c1288e08ff457cc0ef68220c.ctex"]
+source_file="res://bubbabday/updates/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-5137fdc5f03c27f18a466fd424d9bb2e.ctex"]
 
 [params]
 
